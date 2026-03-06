@@ -20,5 +20,18 @@
       );
       
     }
+
+    figcaption {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 24px;
+      color: #fff;
+
+      h2 {
+        margin-top: 8px;
+      }
+    }
   }
 }
