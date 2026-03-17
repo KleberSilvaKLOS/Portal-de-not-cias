@@ -45,4 +45,4 @@ Certifique-se de manter a estrutura de pastas:
 
 Abra o arquivo index.html em um navegador.
 
-Obrigado 
+Obrigado galerinha!
